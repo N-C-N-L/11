@@ -11,3 +11,5 @@ git status
 git add project2.
 git commit -m "完成了running letter"
 git push
+git fetch upstream
+git merge upstream/master
